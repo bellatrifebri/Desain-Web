@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title> CSS Website Layout </title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+	<div class="header">
+		<h1> INDONESIA </h1>
+		<h1>  Bella  Explore Exotic Tour </h1>
+	</div>
+
+	<div class="topnav">
+		<a href="#"> HOME </a>
+		<a href="#"> Contact </a>
+		<a href="#"> Sumatra </a>
+		<a href="#"> Jawa </a>
+		<a href="#"> Kalimantan</a>
+		<a href="#"> Selawesi </a>
+		<a href="#"> Papua </a>
+	</div>
+
+	<div>
+		<img src="papua.jpg" alt="" class="banner">
+	</div>
+
+
+	<div class="row">
+		<div class="column">
+			<h1> Gunung </h1>
+			<p>
+				Pegunungan di indonesia  merupakan pegunungan yang sangat eksotis. beberapa diantaranya memliki keunikannya masing-masing.
+				pegunungan di indinesia termasuk dalam sirkum Mediterania dan sirkum Pasifik. Kedua Sirkum Tersebut dinamai dengan "Ring of Fire". pegunungan yang termasuk sirkum Mediterania di indonesia contohnya seperti Gunung Leuseur, Gunug Krinci, dan Gunung Krakatau, karena termasuk dalam busur Vulkanik.
+				Beberapa gunung di indonesia memang masih banyak yang aktif terutama yang berada di sumatra, jawa hingga sampai ke Nusa tenggara. Namun demikian, tetap saja gunung vulkanis ini memiliki pesona yang indah bagi para pecinta Alam.  
+			</p>
+	</div>
+
+
+	<div class="column">
+		<h1> Pantai </h1>
+		<p>
+			Indonesia memiliki Ribuan Pantai yang sangat eksotis yang sangat sayang jika tiak  di kunjungi, banyak pantai yang sangat cantik dan bersih di indonesia. banyak dari pantai di indonesia yang sangat mendunia, pantai Kuta di bali contohnya, keelokan alam yang sangat asri yang membuat wisatawan bisa melepaskan penat selama Padat nya pekerjaan.
+			Tak hanya pantai yang harus di kunjungi, wisata bawah laut juga harus di eksplor jika sudah berada di indinesia, potret keindahan bawah laut yang sangat menawan membuat mata tak akan lelah untuk melihat nya, salah satu wiata bawah laut yang sagat indah adalah Taman Nasional Bunaken di sulawesi Utara yang tak ada duanya, birunya laut dan terumbu karang yang cantik bak lukisan yang sempurna. Indonesia adalah surganya bawah laut yang akan membuat wisatawan terhipnotis akan keindahannya.
+		</p>
+	</div>
+
+
+	<div class="column">
+		<h1> Kuliner </h1>
+		<p>
+			Masakan Indonesia adalah salah satu tradisi kuliner yang paling kaya di dunia, dan penuh dengan cita rasa yang kuat.[1] Kekayaan jenis masakannya merupakan cermin keberagaman budaya dan tradisi Nusantara yang terdiri dari sekitar 6.000 pulau berpenghuni, dan menempati peran penting dalam budaya nasional Indonesia secara umum. Indonesia awalnya dikenal sebagai negeri penghasil rempah yang berlimpah. Dari bumbu berdasar rempah inilah, banyak masakan khas asli Indonesia yang tercipta. Bukan itu saja. Interaksi perdagangan dengan negeri luar Indonesia, menciptakan persilangan jenis masakan yang juga memperkaya selera.Hingga kini, dikenal banyak masakan Indonesia yang mendunia. Dari rendang, nasi goreng, hingga sate telah banyak memanjakan para penikmat dan pencari kepuasan selera.
+		</p>
+	</div>
+</div>
+
+<div class="footer">
+		<p> Copyright @BellaTf.comedited By Bella Tri Febri</p>
+	</div>
+
+</body>
+</html>
