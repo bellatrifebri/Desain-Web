@@ -1,0 +1,68 @@
+.header {
+	background-color: #9ACD32;
+	padding: 10px;
+	text-align: center;
+	color: black;
+	text-transform: serif;
+}
+
+.topnav {
+	overflow: hidden;
+	background-color: #f5DEB3;
+
+}
+
+.topnav a{
+	float: left;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 24px;
+
+}
+	.topnav a:hover {
+	background-color: #778899;
+	color: #FFE4B5;
+}
+
+
+
+.row:after{
+	content: "";
+	display: table;
+	color: : both;
+}
+
+.column {
+	float: left;
+	width: 30%;
+	padding: 15px;
+	text-align: justify;
+}
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+/*.footer .text:hover {
+	background-color: #FFE4B5;
+	color: #CD853F;
+}*/
+
+.banner{
+	/*atur width(lebar) gambar dengan class banner sebesar 100% sesuai lebar layar laptop */
+	width: 100%; 
+	height: 65vh;
+}
+
+.gallery{
+	width:100%;
+	background-color: white;
+	padding: 10px;
+	height: 40vh;
+}
